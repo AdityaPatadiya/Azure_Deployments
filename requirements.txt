@@ -24,7 +24,7 @@ langchain
 langchain-core
 langchain-community
 langchain-text-splitters
-lanngchain-openai
+langchain-openai
 langsmith
 MarkupSafe
 narwhals
